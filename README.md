@@ -6,4 +6,3 @@
 - 고정현 https://github.com/JeonghyunKo
 - 정성현 https://github.com/Castlegus
 - 최정원 https://github.com/gardenchoi
-- 유희성 https://github.com/happytimehs
